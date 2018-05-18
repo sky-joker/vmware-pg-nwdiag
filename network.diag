@@ -1,0 +1,14 @@
+nwdiag {
+  network "PG03" {
+    test4;
+  }
+  network "PG02" {
+    test2;
+    test3;
+    test1;
+  }
+  network "PG01" {
+    test4;
+    test1;
+  }
+}
